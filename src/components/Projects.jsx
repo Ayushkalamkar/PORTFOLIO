@@ -58,6 +58,7 @@ import React from "react";
 // import employeeMSImage from "../assets/employee-ms.png";
 // import bookMSImage from "../assets/admin-dashboard.png";
 import blogScreenshot from "../assets/blogScreenshot.png";
+import movieBooking from "../assets/movieBooking.png"
 
 const projects = [
   {
@@ -66,6 +67,13 @@ const projects = [
     technologies: "MERN Stack",
     image: blogScreenshot,
     live: "https://blogif.vercel.app/",
+  },
+  {
+    id: 1,
+    name: "MovieBooking Website",
+    technologies: "React & Tailwind",
+    image: movieBooking,
+    live: "https://quick-show-lyart.vercel.app/",
   },
 ];
 
