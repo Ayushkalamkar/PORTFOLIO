@@ -26,6 +26,11 @@ const services = [
     title: "Phyton Development",
     description: "Good Phyton development skills.",
   },
+  {
+    id: 5,
+    title: "Power BI",
+    description: "Interactive portfolio showcasing data-driven insights and dashboards built with Power BI for real-world business scenarios.",
+  },
   // {
   //   id: 5,
   //   title: "Content Writing",
