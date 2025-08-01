@@ -59,6 +59,7 @@ import React from "react";
 // import bookMSImage from "../assets/admin-dashboard.png";
 import blogScreenshot from "../assets/blogScreenshot.png";
 import movieBooking from "../assets/movieBooking.png"
+import quickride from '../assets/quickride.png'
 
 const projects = [
   {
@@ -69,11 +70,18 @@ const projects = [
     live: "https://blogif.vercel.app/",
   },
   {
-    id: 1,
+    id: 2,
     name: "MovieBooking Website",
     technologies: "React & Tailwind",
     image: movieBooking,
     live: "https://quick-show-lyart.vercel.app/",
+  },
+  {
+    id: 3,
+    name: "QuickRide -Car Rental Website",
+    technologies: "Mern Stack",
+    image: quickride,
+    live: "https://quickride-pi.vercel.app",
   },
 ];
 
